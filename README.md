@@ -7,3 +7,10 @@ Build scripts for unofficical DataGrip DEB package for my personal use.
 
 Thanks to @jetbrains for making great product!
 
+## Build
+
+```
+./get-binary.sh
+./build.sh
+```
+

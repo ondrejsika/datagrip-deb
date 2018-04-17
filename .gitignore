@@ -1,0 +1,7 @@
+*.deb
+/src/opt/datagrip/**
+
+*.tar.gz
+
+*.swp
+

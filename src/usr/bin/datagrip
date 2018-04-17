@@ -1,0 +1,4 @@
+#!/bin/sh
+
+/opt/datagrip/bin/datagrip.sh $@ > /dev/null 2> /dev/null &
+

@@ -1,0 +1,8 @@
+Package: datagrip
+Version: 2018.1.1
+Architecture: amd64
+Maintainer: Ondrej Sika <ondrej@ondrejsika.com>
+Depends: openjdk-8-jre
+Priority: extra
+Description: Database IDE
+
